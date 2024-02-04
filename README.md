@@ -1,0 +1,2 @@
+# Overview
+The Meme Scraper Project is a Python-based web scraping tool designed to fetch and download memes from various meme websites. This version of the project focuses specifically on the Imgflip website, allowing users to gather a collection of memes from Imgflip for entertainment and sharing purposes.
